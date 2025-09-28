@@ -1,7 +1,7 @@
 # Mini-Project-2-DDP
 Nama: Selvi Bella Dwi Anita NIM: 2509116053 Kelas: Sistem Informasi B
 # Flowchart
-![image Alt](https://github.com/SelviBella/Mini-Project-2-DDP/blob/main/flowchartminpro2.drawio.png?raw=true)
+<img width="1781" height="1202" alt="Image" src="https://github.com/user-attachments/assets/56ab0e5c-544b-4792-b6be-37edec4f555a" />
 
 # Penjelasan Output Alur Program
 ![Image](https://github.com/user-attachments/assets/96363f65-53f9-4e1e-867a-c27779e23851)
