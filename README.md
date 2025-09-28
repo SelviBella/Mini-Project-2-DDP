@@ -11,5 +11,7 @@ ketika pengguna login ke sistem, pengguna kemudian memasukkan username dan passw
 Jika pengguna salah memasukkan username atau password yang tidak valid sistem akan mendeteksi dan menampilkan keterangan login gagal, username dan password yang dimasukkan salah atau tidak valid
 
 ![Image](https://github.com/user-attachments/assets/8b09a61b-45fa-4672-837a-a2a70c918976)
-Setelah berhasil login pengguna dapat memilih daftar menu, untuk role admin terdapat 5 pilihan menu dan jika ingin melihat daftar budaya pengguna dapat meng input 1
+Setelah berhasil login pengguna dapat memilih daftar menu, untuk role admin terdapat 5 pilihan menu dan jika ingin melihat daftar budaya pengguna dapat meng input 1 dan sistem akan menampilkan daftar budaya yang disimpan sat ini
 
+
+Pengguna dengan role admin dapat menambahkan data dengan menginput 2 dan setelah itu input atau masukkan nama, asal, jenis budaya, dan tahun penetapannya
