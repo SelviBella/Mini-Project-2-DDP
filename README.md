@@ -35,3 +35,22 @@ Terakhi, jika pengguna memasukkan 5 yakni keluar maka sistem akan otomatis kelua
 
 # Kondisi Error atau Kondisi Lain
 
+<img width="400" height="289" alt="Image" src="https://github.com/user-attachments/assets/f06f1812-ff8f-4d6f-b771-9979f3da04f6" />
+
+Ketika pengguna memasukkan nama dan asal yang tidak valid atau valueerror dan diharuskan memasukkan huruf
+
+<img width="511" height="41" alt="Image" src="https://github.com/user-attachments/assets/75ef9334-f04c-428b-8cf8-3e580fbb5c12" />
+
+ketika pengguna hanya boleh memasukkan dua jenis pilihan dan tidak boleh menginput selain dua pilihan tersebut
+
+<img width="357" height="35" alt="Image" src="https://github.com/user-attachments/assets/a4436d11-f215-49da-b0ba-acbf679e49f3" />
+
+Ketika pengguna tidak bisa memasukkan atau input huruf dan wajib menginput data dengan angka
+
+<img width="277" height="226" alt="Image" src="https://github.com/user-attachments/assets/5678e81b-255e-432e-a60c-206be395ac1f" />
+
+Kondisi dimana pengguna menginput pilihan yang tidak ada di dalam data atau daftar menu maka akan menampilkan pilihan tidak valid
+
+<img width="465" height="509" alt="Image" src="https://github.com/user-attachments/assets/16b88704-3a40-4bcf-bc0c-bb00876ff4bb" />
+
+Kondisi lain yang dilihat oleh pengguna yang login dengan role pengunjung yaitu hanya ada 2 pilihan menu, melihat daftar budaya dan keluar dari sistem lalu program berakhir.
