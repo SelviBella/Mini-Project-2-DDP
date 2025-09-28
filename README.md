@@ -13,5 +13,6 @@ Jika pengguna salah memasukkan username atau password yang tidak valid sistem ak
 ![Image](https://github.com/user-attachments/assets/8b09a61b-45fa-4672-837a-a2a70c918976)
 Setelah berhasil login pengguna dapat memilih daftar menu, untuk role admin terdapat 5 pilihan menu dan jika ingin melihat daftar budaya pengguna dapat meng input 1 dan sistem akan menampilkan daftar budaya yang disimpan sat ini
 
+![Image](https://github.com/user-attachments/assets/f2a41149-b6cc-4e8b-bb57-7578bb972b9d)
+Pengguna dengan role admin dapat menambahkan data dengan menginput 2 dan setelah itu input atau masukkan nama, asal, jenis budaya, dan tahun penetapannya setelah itu sistem akan memproses dan setelah berhasil memvalidasi sistem akan menampilkan bahwa data berhasil ditambahkan ke dalam daftar budaya baru
 
-Pengguna dengan role admin dapat menambahkan data dengan menginput 2 dan setelah itu input atau masukkan nama, asal, jenis budaya, dan tahun penetapannya
