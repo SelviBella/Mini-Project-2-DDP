@@ -14,16 +14,24 @@ Jika pengguna salah memasukkan username atau password yang tidak valid sistem ak
 
 <img width="409" height="273" alt="Image" src="https://github.com/user-attachments/assets/50a84a67-c6f4-45c3-aa6a-dba240da249e" />
 
-Setelah berhasil login pengguna dapat memilih daftar menu, untuk role admin terdapat 5 pilihan menu dan jika ingin melihat daftar budaya pengguna dapat meng input 1 dan sistem akan menampilkan daftar budaya yang disimpan saat ini
+Setelah berhasil login pengguna dapat memilih daftar menu, untuk role admin terdapat 5 pilihan menu dan jika ingin melihat daftar budaya pengguna dapat meng input 1 dan sistem akan menampilkan daftar budaya yang disimpan saat ini, program berakhir
 
 <img width="483" height="297" alt="Image" src="https://github.com/user-attachments/assets/20bd5512-17e2-4f0f-8ae9-00c92797be79" />
 
-Pengguna dengan role admin dapat menambahkan data dengan menginput 2 dan setelah itu input atau masukkan nama, asal, jenis budaya, dan tahun penetapannya setelah itu sistem akan memproses dan setelah berhasil memvalidasi sistem akan menampilkan bahwa data berhasil ditambahkan ke dalam daftar budaya baru
+Pengguna dengan role admin dapat menambahkan data dengan menginput 2 dan setelah itu input atau masukkan nama, asal, jenis budaya, dan tahun penetapannya setelah itu sistem akan memproses dan setelah berhasil memvalidasi sistem akan menampilkan bahwa data berhasil ditambahkan ke dalam daftar budaya baru dan program berakhir
 
 <img width="458" height="467" alt="Image" src="https://github.com/user-attachments/assets/c70e4530-9262-45e9-8b2c-c5afd6350b97" />
 
-Jika pengguna atau role admin ingin mengubah data maka dapat menginput pilihan 3 yaitu ubah data kemudian memasukkan id data yang ingin diubah lalu input nama, asal, jenis budaya dan tahun yang sesuai setelahnya sistem akan memproses dan mengubah data sesuai dengan yang telah dimasukkan lalu menampilkan data berhasil diubah
+Jika pengguna atau role admin ingin mengubah data maka dapat menginput pilihan 3 yaitu ubah data kemudian memasukkan id data yang ingin diubah lalu input nama, asal, jenis budaya dan tahun yang sesuai setelahnya sistem akan memproses dan mengubah data sesuai dengan yang telah dimasukkan lalu menampilkan data berhasil diubah, program selesai
 
 <img width="443" height="201" alt="Image" src="https://github.com/user-attachments/assets/68708df8-1d98-44a9-9807-f3c81990ead7" />
 
-Selanjutnya jika ingin menghapus data yang telah tersimpan pengguna/admin dapat memilih atau input pilihan 4 yaitu hapus data lalu pilih ID data pada daftar budaya yang akan dihapus setelahnya sistem akan melakukan proses penghapusan dan menampilkan data berhasil dihapus
+Selanjutnya jika ingin menghapus data yang telah tersimpan pengguna/admin dapat memilih atau input pilihan 4 yaitu hapus data lalu pilih ID data pada daftar budaya yang akan dihapus setelahnya sistem akan melakukan proses penghapusan dan menampilkan data berhasil dihapus maka program selesai
+
+<img width="249" height="173" alt="Image" src="https://github.com/user-attachments/assets/69ddb970-fbcf-4bfd-9d41-b22bce952d9f" />
+
+Terakhi, jika pengguna memasukkan 5 yakni keluar maka sistem akan otomatis keluar dan program berakhir.
+
+
+# Kondisi Error atau Kondisi Lain
+
