@@ -30,7 +30,7 @@ Selanjutnya jika ingin menghapus data yang telah tersimpan pengguna/admin dapat 
 
 <img width="249" height="173" alt="Image" src="https://github.com/user-attachments/assets/69ddb970-fbcf-4bfd-9d41-b22bce952d9f" />
 
-Terakhi, jika pengguna memasukkan 5 yakni keluar maka sistem akan otomatis keluar dan program berakhir.
+Terakhir, jika pengguna memasukkan 5 yakni keluar maka sistem akan otomatis keluar dan program berakhir.
 
 
 # Kondisi Error/Kondisi Lain
