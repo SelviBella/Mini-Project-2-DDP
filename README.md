@@ -20,3 +20,5 @@ Setelah berhasil login pengguna dapat memilih daftar menu, untuk role admin terd
 
 Pengguna dengan role admin dapat menambahkan data dengan menginput 2 dan setelah itu input atau masukkan nama, asal, jenis budaya, dan tahun penetapannya setelah itu sistem akan memproses dan setelah berhasil memvalidasi sistem akan menampilkan bahwa data berhasil ditambahkan ke dalam daftar budaya baru
 
+<img width="458" height="467" alt="Image" src="https://github.com/user-attachments/assets/c70e4530-9262-45e9-8b2c-c5afd6350b97" />
+Jika pengguna atau rolea admin ingin mengubah data maka dapat menginput pilihan 3 yaitu ubah data kemudian memasukkan id data yang ingin diubah lalu input nama, asal, jenis budaya dan tahun yang sesuai setelahnya sistem akan memproses dan mengubah data sesuai dengan yang telah dimasukkan
