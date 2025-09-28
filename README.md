@@ -12,3 +12,4 @@ Jika pengguna salah memasukkan username atau password yang tidak valid sistem ak
 
 ![Image](https://github.com/user-attachments/assets/8b09a61b-45fa-4672-837a-a2a70c918976)
 Setelah berhasil login pengguna dapat memilih daftar menu, untuk role admin terdapat 5 pilihan menu dan jika ingin melihat daftar budaya pengguna dapat meng input 1
+
