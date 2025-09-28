@@ -33,7 +33,7 @@ Selanjutnya jika ingin menghapus data yang telah tersimpan pengguna/admin dapat 
 Terakhi, jika pengguna memasukkan 5 yakni keluar maka sistem akan otomatis keluar dan program berakhir.
 
 
-# Kondisi Error atau Kondisi Lain
+# Kondisi Error/Kondisi Lain
 
 <img width="400" height="289" alt="Image" src="https://github.com/user-attachments/assets/f06f1812-ff8f-4d6f-b771-9979f3da04f6" />
 
