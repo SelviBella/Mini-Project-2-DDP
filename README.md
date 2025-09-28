@@ -10,3 +10,5 @@ ketika pengguna login ke sistem, pengguna kemudian memasukkan username dan passw
 ![Image](https://github.com/user-attachments/assets/c60da405-89fa-4b69-a160-0914c1518cc3)
 Jika pengguna salah memasukkan username atau password yang tidak valid sistem akan mendeteksi dan menampilkan keterangan login gagal, username dan password yang dimasukkan salah atau tidak valid
 
+![Image](https://github.com/user-attachments/assets/8b09a61b-45fa-4672-837a-a2a70c918976)
+Setelah berhasil login pengguna dapat memilih daftar menu, untuk role admin terdapat 5 pilihan menu dan jika ingin melihat daftar budaya pengguna dapat meng input 1
